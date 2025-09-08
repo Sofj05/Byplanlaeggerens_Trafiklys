@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hvad tid på døgnet er det? (Dag, Aften, Nat)");
         String time = input.nextLine();
-
+System.out.println("trafik");
         System.out.println("Er trafikmængden høj eller lav?");
         String trafficMass = input.nextLine();
 
